@@ -1,18 +1,18 @@
 ## Personal Information
-NAME:  Rocky Yang
-PHONE:  (612)-396-5953
-EMAIL:  yangrocky2013@gmail.com
-LOCATION:  Minneapolis - Saint Paul, Minnesota
-GITHUB:  [link]https://github.com/rockyboyyang
-LINKEDIN:  [link]https://www.linkedin.com/in/rocky-yang-8a6669b8/
+- NAME:  Rocky Yang
+- PHONE:  (612)-396-5953
+- EMAIL:  yangrocky2013@gmail.com
+- LOCATION:  Minneapolis - Saint Paul, Minnesota
+- GITHUB:  https://github.com/rockyboyyang
+- LINKEDIN:  https://www.linkedin.com/in/rocky-yang-8a6669b8/
 
 ## My Story
 
 My name is Rocky Yang, a web developer with experience in Python, JavaScript, React.js, SQL, HTML, and CSS.  My interest in web developing goes all the way back when I first started playing video games.  My interest in learning how to develop video games grew and eventually I developed a passion and liking for web developing.  I love to problem solve, which is why coding became fun for me.  I'm looking for an environment that is welcoming and comes with opportunites to continue learning.
 
 ## My Projects
-- Chess
-- C.A.R.L.
+- Chess  https://powerful-mountain-20313.herokuapp.com/
+- C.A.R.L.  https://still-reef-05529.herokuapp.com/
 
 ## My Skills
 - React
